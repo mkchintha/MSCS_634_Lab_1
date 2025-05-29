@@ -1,17 +1,15 @@
-# Weather Data Analysis Lab
-
 ## Author
 Murali Krishna Chintha
 
 ## Course
-MSCS 634 – Data Analysis and Visualization
+MSCS-634-M40 – Advanced Big Data and Data Mining
 
 ## Assignment
 Lab 1 – Data Visualization, Data Preprocessing, and Statistical Analysis Using Python in Jupyter Notebook
 
 ---
 
-## Overview
+## Purpose
 This lab demonstrates the application of data preprocessing, visualization, and statistical analysis techniques on a real-world weather dataset (`weatherAUS.csv`). The goal is to explore the data, clean it, visualize relationships, and derive meaningful insights using Python and Jupyter Notebook.
 
 ---
@@ -57,10 +55,6 @@ This lab demonstrates the application of data preprocessing, visualization, and 
 - Outlier handling significantly improved `Rainfall` distribution.
 - Cloud coverage and pressure data are moderately balanced and skew-resistant.
 - Temperature and rainfall distributions became well-suited for analysis after scaling.
-
----
-
-## Additional Insights
 - Rainfall distribution is highly right-skewed, with a skewness of 2.61, indicating that most days are dry with occasional extreme rain events.
 - Rainfall also exhibits high kurtosis (5.78), confirming the presence of heavy tails and extreme outliers even after IQR filtering.
 - Humidity at 9am is negatively correlated with temperature, suggesting that cooler mornings tend to have higher humidity levels.
