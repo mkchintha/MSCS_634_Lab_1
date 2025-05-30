@@ -78,6 +78,7 @@ All screenshots required for lab submission are available in the `/screenshots/`
 ---
 
 ## Dataset Source
+The dataset is uploaded in the `/dataset/` folder, also can be found in below link:
 [weatherAUS.csv – Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
 
 ---
