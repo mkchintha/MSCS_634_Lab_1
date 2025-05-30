@@ -1,2 +1,2 @@
 Adding screenshots in this folder.
-![Data Visualization One](screenshots/viz1.png)
+![Data Visualization One](viz1.png)
